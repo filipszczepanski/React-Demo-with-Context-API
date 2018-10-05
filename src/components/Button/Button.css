@@ -1,0 +1,6 @@
+.Button {
+    padding: 1rem 1.5rem;
+    border: 1px solid seagreen;
+    background-color: transparent;
+    box-shadow: none;
+}
